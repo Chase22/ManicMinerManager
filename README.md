@@ -28,3 +28,4 @@ An autoupdate for ManicMiner is planned, but until then manual updates can easil
 - [X] Handle multiple installations of ManicMiner
 - [X] Syncronise Custom Levels
 - [ ] Autoupdate to the newest stable or experimental build
+- [ ] Quickly install new levels using a level browser
