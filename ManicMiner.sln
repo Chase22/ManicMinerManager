@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManicMiner", "ManicMiner\ManicMiner.csproj", "{593CB31B-A727-4A06-BEA3-C5887C2DD269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593CB31B-A727-4A06-BEA3-C5887C2DD269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593CB31B-A727-4A06-BEA3-C5887C2DD269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593CB31B-A727-4A06-BEA3-C5887C2DD269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593CB31B-A727-4A06-BEA3-C5887C2DD269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62A6D12-DDDE-4C44-A346-6501CF2E9157}
+	EndGlobalSection
+EndGlobal
